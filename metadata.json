@@ -1,0 +1,6 @@
+{
+  "name": "M4DiTV",
+  "description": "Native Android IPTV Streaming application with full Android TV and Phone support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
